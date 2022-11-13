@@ -159,4 +159,5 @@ Dark Mode
 </td>
 </table>
 <br/>
+Thank you visiting our Github page and helping us with the updates and editings.
 
